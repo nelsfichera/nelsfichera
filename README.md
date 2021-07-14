@@ -1,6 +1,6 @@
 - 🖖 Hi, I’m @nelsfichera
 - 👁 I’m interested in web design & arduino 
-- 🪢 I’m currently learning C and Python
+- 🪢 I’m currently learning C, Python, SQL, HTML, CSS, and Javascript
 - 🏹 I’m looking to collaborate on websites and art installations
 - 🌀 How to reach me twitter @nelsfichera
 

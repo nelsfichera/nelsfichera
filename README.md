@@ -4,6 +4,7 @@
 - 🏹 I’m looking to collaborate on websites and art installations
 - 🌀 How to reach me twitter @nelsfichera 
 - 📚 Currently reading: Minding the Weather, Speculative Everything, Revolutionary Letters, The Social Photo
+- 🗜 AMA about my life as an operations manager
 
 <!---
 nelsfichera/nelsfichera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
